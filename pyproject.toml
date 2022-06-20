@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "meetdjango"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["CoderBerryRabbit <CoderChaos@yeah.net>"]
 
