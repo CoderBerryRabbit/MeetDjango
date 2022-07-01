@@ -9,6 +9,7 @@ python = "^3.10"
 Django = "^3.2.13"
 
 [tool.poetry.dev-dependencies]
+django-simpleui = "^2022.6.131"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
